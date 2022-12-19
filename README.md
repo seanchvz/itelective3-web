@@ -17,5 +17,6 @@
     • Update Resource -> Find Resource
           ^ Assign Skill to Resource and Unassign Skill from a Resource
     
-#### Refer to Image for better visualization <img src="https://user-images.githubusercontent.com/75471267/208342892-86decb7c-4296-492c-a7e8-ba7f75ad6b80.jpeg"/>
+#### Refer to Image for better visualization 
+<img src="https://user-images.githubusercontent.com/75471267/208342892-86decb7c-4296-492c-a7e8-ba7f75ad6b80.jpeg"/>
 
