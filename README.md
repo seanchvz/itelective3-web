@@ -7,3 +7,14 @@
 
 
 ## Sub-systems 
+### 1. Resource Manager
+    • Add Skill
+    • Remove Skill -> Find Skill
+    • Update Skill -> Find Skill
+    
+    • Add Resource
+    • Remove Resource -> Find Resource
+    • Update Resource -> Find Resource
+          ^ Assign Skill to Resource and Unassign Skill from a Resource
+    
+
